@@ -2,7 +2,7 @@
 
 #### Code about me 👨🏻‍💻:
 ```javaScript
-const lucasDev = {
+let lucasDev = {
   technologies: ['Web', 'Desktop'],
   code: ['CSS', 'SASS', 'JavaScript', 'Node', 'Vue', 'TypeScript', 'C#'],
   tools: ['Postman', 'Express', 'MongoDB', 'Git', 'Firebase', 'Vercel']
