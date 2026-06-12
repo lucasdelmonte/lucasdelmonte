@@ -24,7 +24,6 @@ let lucasDev = {
 
 #### You can find me 🌎:
 - [LinkedIn](https://www.linkedin.com/in/lucas-delmonte-8794921a9/)
-- [Instagram](https://www.instagram.com/lucaasdelmonte/)
 - Portfolio: comming soon...
 
 #### Systems Engineering
